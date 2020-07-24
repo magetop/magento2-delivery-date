@@ -1,6 +1,6 @@
 # Magento 2 Delivery Date Extension by MageTop
 
-**Delivery Date** is a great plugin allows your customers to choose any date that is after the current date for their order delivery at the checkout page.
+**Magento 2 Delivery Date Extension** is a great plugin allows your customers to choose any date that is after the current date for their order delivery at the checkout page.
 
 ## Highlight features
 
